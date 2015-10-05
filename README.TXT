@@ -1,12 +1,12 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
+
+PROJECT TITLE:Socket Programming
+PURPOSE OF PROJECT: Assignment
+VERSION or DATE:4th October 2015
 AUTHORS: Ishaan Arora
 USER INSTRUCTIONS:
+Client Code is Common for Connection Based (Iterative and Concurrent) only Server Code changes
+You can also use following command on cmd to make a server(local)
+telnet 127.0.0.1 8080 
+In UDP both server and client codes are in same file pass the behavious as argument in main method either server {"server"}
+or client{"client"}
